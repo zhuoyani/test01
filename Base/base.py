@@ -30,3 +30,6 @@ class Base():
 
         *loc=By.XPATH,"//*[contains(....)]"
     """
+
+    def setting(self):
+        pass
